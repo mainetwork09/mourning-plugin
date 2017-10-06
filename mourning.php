@@ -1,7 +1,7 @@
 <?php
 
 /*
-Plugin Name:  Mourning
+Plugin Name:  Thai's Mourning
 Plugin URI:   https://chonable.com
 Description:  Change your web to grayscale
 Version:      01-oct-2017
@@ -9,7 +9,7 @@ Author:       Mai Chanchaemsri
 Author URI:   https://chonable.com
 License:      GPLv3
 License URI:  https://www.gnu.org/licenses/quick-guide-gplv3.html
-Text Domain:  mourning
+Text Domain:  thai-mourning
 Domain Path:  /languages
 */
 
